@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Insulin Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="beforeBkfstIMD_txtView">Before breakfast dose:</string>
+    <string name="beforelchIMD_txtView">Before lunch dose:</string>
+    <string name="beforednrIMD_txtView">Before dinner dose:</string>
+    <string name="BloodSugarTarget_txtView">Sugar target (mg/dl):</string>
+    <string name="Sensitivity_txtView">Sensitivity: (Use Drop Down Menu)</string>
+    <string name="BasalInsulin_txtView">Your basal insulin:</string>
+    <string name="QueryMealNow_txtView">What meal now?</string>
+    <string name="QueryWillEat_txtView">How much will you eat?</string>
+    <string name="QueryCurrentSugar">What is your current sugar?</string>
+    <string name="InsulinNeededTxtView">Insulin Needed:</string>
+    <string name="InsulinNeededCalcTxtView"> 0 </string>
+    <string name="title_activity_user_data_entry"> UserDataEntry</string>
+
+    <string-array name="SensitivitySpinner">
+        <item>Very Low</item>
+        <item>Low</item>
+        <item>Moderate</item>
+        <item>High</item>
+        <item>Very High</item>
+    </string-array>
+    <string-array name="WhatMealNowSpinner">
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+        <item>Bedtime</item>
+    </string-array>
+    <string-array name="HowMuchEat">
+        <item>Full Meal</item>
+        <item>3/4 full</item>
+        <item>1/2 full</item>
+        <item>1/4 full</item>
+        <item>None</item>
+    </string-array>
+
+    <string name="ButtonUserDataEntry">User Data Entry</string>
+    <string name="ButtonSettingsBack">Back to Settings</string>
+    <string name="Calculate">Calculate</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
